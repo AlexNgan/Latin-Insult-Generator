@@ -1,5 +1,5 @@
 #   Latin Insult Generator.py
-#   Author: Gloria
+#   Author: Alex
 #
 #   A program that randomly creates insults with Latin
 #   adjectives and nouns. It either uses masculine or
